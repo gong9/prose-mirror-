@@ -1,0 +1,5 @@
+{
+  "name": "ProseMirror 魔法教室",
+  "description": "一个动漫风格的 ProseMirror Mapping 交互式教学工具，带你体验坐标瞬移的魔法。",
+  "requestFramePermissions": []
+}
